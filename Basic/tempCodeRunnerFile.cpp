@@ -1,0 +1,1 @@
+ cout <<"The sum of the digit of "<<a<< " is "<<sum;

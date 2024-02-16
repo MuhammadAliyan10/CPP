@@ -1,0 +1,4 @@
+Product Name: Pants
+Quantity: 13
+Price per unit: 699
+-------------------------
